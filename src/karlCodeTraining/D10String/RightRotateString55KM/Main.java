@@ -1,4 +1,4 @@
-package karlCodeTraining.D9String.RightRotateString55KM;
+package karlCodeTraining.D10String.RightRotateString55KM;
 
 import java.util.Scanner;
 public class Main {

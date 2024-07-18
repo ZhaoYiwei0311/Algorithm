@@ -1,4 +1,4 @@
-package karlCodeTraining.D10StackAndQueue.TopKFrequentElements347;
+package karlCodeTraining.D12StackAndQueue.TopKFrequentElements347;
 
 import java.util.HashMap;
 import java.util.Map;

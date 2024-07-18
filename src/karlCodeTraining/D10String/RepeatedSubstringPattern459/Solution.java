@@ -1,4 +1,4 @@
-package karlCodeTraining.D9String.RepeatedSubstringPattern459;
+package karlCodeTraining.D10String.RepeatedSubstringPattern459;
 
 public class Solution {
 

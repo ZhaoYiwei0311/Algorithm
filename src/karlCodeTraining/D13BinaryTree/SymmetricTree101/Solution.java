@@ -1,4 +1,4 @@
-package karlCodeTraining.D12BinaryTree.SymmetricTree101;
+package karlCodeTraining.D13BinaryTree.SymmetricTree101;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package karlCodeTraining.D10StackAndQueue.EvaluateReversePolishNotation150;
+package karlCodeTraining.D12StackAndQueue.EvaluateReversePolishNotation150;
 
 import java.util.Deque;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package karlCodeTraining.D12BinaryTree.InvertBinaryTree226;
+package karlCodeTraining.D13BinaryTree.InvertBinaryTree226;
 
 public class Solution {
 

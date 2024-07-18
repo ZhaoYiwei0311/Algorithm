@@ -1,4 +1,4 @@
-package karlCodeTraining.D9String.FindTheIndexOfTheFirstOccurrenInAString28;
+package karlCodeTraining.D10String.FindTheIndexOfTheFirstOccurrenInAString28;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package karlCodeTraining.D13BinaryTree.BalancedBinaryTree110;
+package karlCodeTraining.D14BinaryTree.BalancedBinaryTree110;
 
 public class Solution {
     public boolean isBalanced(TreeNode root) {
