@@ -1,11 +1,6 @@
-package karlCodeTraining.D16BinaryTree.LowestCommonAncestorOfABinaryTree236;
+package karlCodeTraining.D17BinaryTree.LowestCommonAncestorOfABinaryTree236;
 
-import com.sun.source.tree.Tree;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Objects;
-import java.util.Stack;
 
 public class Solution {
 //    List<TreeNode> pathP = new ArrayList<>();
