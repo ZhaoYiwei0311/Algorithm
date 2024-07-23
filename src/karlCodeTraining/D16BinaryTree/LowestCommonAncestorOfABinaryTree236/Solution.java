@@ -1,11 +1,6 @@
 package karlCodeTraining.D16BinaryTree.LowestCommonAncestorOfABinaryTree236;
 
-import com.sun.source.tree.Tree;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-import java.util.Stack;
 
 public class Solution {
 //    List<TreeNode> pathP = new ArrayList<>();
@@ -75,7 +70,7 @@ public class Solution {
         if (left == q || right == q) {
             return q;
         }
-        return Objects.requireNonNullElse(ancestor, root);
+        return null;
     }
 
     public TreeNode betterLowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
@@ -91,7 +86,7 @@ public class Solution {
             return right;
         } else if (left != null && right == null) {
             return left;
-        } else { // 若找到两个节点
+        } else { // find two nodes
             return root;
         }
     }
