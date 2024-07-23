@@ -1,4 +1,4 @@
-package karlCodeTraining.D16BinaryTree.FindModeInBina   rySearchTree501;
+package karlCodeTraining.D18BinaryTree.FindModeInBinarySearchTree501;
 
 import java.util.ArrayList;
 import java.util.List;
