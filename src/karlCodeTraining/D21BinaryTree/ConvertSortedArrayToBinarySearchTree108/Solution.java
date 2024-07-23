@@ -1,4 +1,4 @@
-package karlCodeTraining.D18BinaryTree.ConvertSortedArrayToBinarySearchTree108;
+package karlCodeTraining.D21BinaryTree.ConvertSortedArrayToBinarySearchTree108;
 
 public class Solution {
 

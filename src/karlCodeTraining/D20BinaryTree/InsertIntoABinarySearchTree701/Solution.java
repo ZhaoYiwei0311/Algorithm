@@ -1,4 +1,4 @@
-package karlCodeTraining.D17BinaryTree.InsertIntoABinarySearchTree701;
+package karlCodeTraining.D20BinaryTree.InsertIntoABinarySearchTree701;
 
 public class Solution {
 

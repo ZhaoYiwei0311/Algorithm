@@ -1,4 +1,4 @@
-package karlCodeTraining.D17BinaryTree.MinimumAbsoluteDifferenceInBST530;
+package karlCodeTraining.D18BinaryTree.MinimumAbsoluteDifferenceInBST530;
 
 public class Solution {
 

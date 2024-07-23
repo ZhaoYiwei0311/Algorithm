@@ -1,4 +1,4 @@
-package karlCodeTraining.D18BinaryTree.ConvertBSTToGreaterTree538;
+package karlCodeTraining.D21BinaryTree.ConvertBSTToGreaterTree538;
 
 public class Solution {
 

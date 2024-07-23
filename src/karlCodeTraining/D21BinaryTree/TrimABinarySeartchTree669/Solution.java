@@ -1,4 +1,4 @@
-package karlCodeTraining.D18BinaryTree.TrimABinarySeartchTree669;
+package karlCodeTraining.D21BinaryTree.TrimABinarySeartchTree669;
 
 public class Solution {
 

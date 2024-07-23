@@ -1,4 +1,4 @@
-package karlCodeTraining.D17BinaryTree.LowestCommonAncestorOfBinarySearchTree235;
+package karlCodeTraining.D20BinaryTree.LowestCommonAncestorOfBinarySearchTree235;
 
 public class Solution {
 

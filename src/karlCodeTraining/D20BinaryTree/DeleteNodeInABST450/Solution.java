@@ -1,4 +1,4 @@
-package karlCodeTraining.D17BinaryTree.DeleteNodeInABST450;
+package karlCodeTraining.D20BinaryTree.DeleteNodeInABST450;
 
 public class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
