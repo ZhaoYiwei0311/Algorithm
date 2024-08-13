@@ -33,7 +33,6 @@ public class Solution {
                             return true;
                         }
                         board[row][col] = '.';
-
                     }
                 }
                 return false; // because previous layer can be wrong
